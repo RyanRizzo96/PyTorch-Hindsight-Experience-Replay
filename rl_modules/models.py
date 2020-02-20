@@ -25,6 +25,7 @@ class actor(nn.Module):
 
         return actions
 
+
 class critic(nn.Module):
     def __init__(self, env_params):
         super(critic, self).__init__()

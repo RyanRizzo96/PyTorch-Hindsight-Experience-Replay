@@ -13,6 +13,7 @@ from her_modules.her import her_sampler
 ddpg with HER (MPI-version)
 
 """
+
 class ddpg_agent:
     def __init__(self, args, env, env_params):
         self.args = args

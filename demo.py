@@ -14,6 +14,7 @@ def process_inputs(o, g, o_mean, o_std, g_mean, g_std, args):
     inputs = torch.tensor(inputs, dtype=torch.float32)
     return inputs
 
+
 if __name__ == '__main__':
     args = get_args()
     # load the model param

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb17d408-2499-468a-93d4-d2f2aee6a520" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/run_bash.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rl_modules/ddpg_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rl_modules/ddpg_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rl_modules/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rl_modules/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="SzScOpai" />
+  </component>
+  <component name="ProjectId" id="1Y4340e9gG3W41UPnZ5vPUaAGWu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run_bash.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/run_bash.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.run_bash.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb17d408-2499-468a-93d4-d2f2aee6a520" name="Default Changelist" comment="" />
+      <created>1582187843655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582187843655</updated>
+      <workItem from="1582187845222" duration="906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2469" y="359" key="SettingsEditor" timestamp="1582187890871">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2469" y="359" key="SettingsEditor/1680.0.2560.1440/0.0.1680.1050/4240.0.1920.1080@1680.0.2560.1440" timestamp="1582187890871" />
+  </component>
+</project>
